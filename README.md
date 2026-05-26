@@ -31,8 +31,8 @@ This is an educational project designed to help developers understand and preven
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/C0deRhin0/Vulnerable-Smart-Contract.git
-   cd Vulnerable-Smart-Contract
+   git clone https://github.com/C0deRhin0/vulnerable-smart-contract.git
+   cd vulnerable-smart-contract
    ```
    
 2. **Install dependencies:**
